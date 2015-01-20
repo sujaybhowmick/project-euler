@@ -12,7 +12,6 @@ def print_range():
         print x
 
 
-
 def sum_of_multiples_bruteforce():
     sum = 0
     for num in range(1, 1000):
